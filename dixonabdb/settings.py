@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-z(!e&vwz+v15=2vc+eqm9k@rt9z_)bj#5$6_*_@rj)$dc)!8l2
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'dixonlab-abdb.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'dixonlab-abdb-mock.herokuapp.com']
 
 
 # Application definition
